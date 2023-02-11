@@ -1,1 +1,1 @@
-print_working_directory
+list_current_directory
